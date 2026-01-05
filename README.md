@@ -28,8 +28,7 @@ climate_change_modeling/
 ├── requirements.txt
 └── README.md
 
-markdown
-Copy code
+
 
 ---
 
