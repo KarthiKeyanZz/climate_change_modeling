@@ -9,22 +9,22 @@ This project analyzes climate-related data from NASA and other sources to perfor
 climate_change_modeling/
 │
 ├── data/
-│ ├── raw/ # Raw datasets
-│ └── processed/ # Cleaned and preprocessed datasets
+│   ├── raw/           # Raw datasets
+│   └── processed/     # Cleaned and preprocessed datasets
 │
-├── notebooks/ # Jupyter notebooks
-│ ├── 01_eda.ipynb
-│ ├── 02_text_preprocessing.ipynb
-│ ├── 03_sentiment_model.ipynb
-│ └── 04_topic_modeling.ipynb
+├── notebooks/         # Jupyter notebooks
+│   ├── 01_eda.ipynb
+│   ├── 02_text_preprocessing.ipynb
+│   ├── 03_sentiment_model.ipynb
+│   └── 04_topic_modeling.ipynb
 │
-├── src/ # Source code modules
-│ ├── preprocessing.py
-│ ├── sentiment_model.py
-│ ├── topic_model.py
-│ └── evaluation.py
+├── src/               # Source code modules
+│   ├── preprocessing.py
+│   ├── sentiment_model.py
+│   ├── topic_model.py
+│   └── evaluation.py
 │
-├── src/models/ # Saved ML models (joblib)
+├── src/models/        # Saved ML models (joblib)
 ├── requirements.txt
 └── README.md
 
